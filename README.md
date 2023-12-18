@@ -33,6 +33,12 @@ Monday, March xx, 2024
  * 03:30 PM – 03:40 PM  o  BREAK
  * 04:00 PM – 05:00 PM  o [Lecture III] Nonparametric Methods for Time Series
  * 05:00 PM - 06:00 PM  o [Problem III] Nonparametric Methods for Time Series
+
+Irregular sampling - lomb scargle, nyquist sampling, aliasing, window functions on the power spectrum, https://arxiv.org/pdf/1703.09824.pdf
+
+Advanced topics - non-uniform sampling approaches to approximating the power spectrum, https://academic.oup.com/mnras/article/464/1/1220/2280760
+
+Transit predictions and application of forecasting methods  
  
 ## Day 2 – Lomb Scargle and Gaussian Processes
 
@@ -82,6 +88,10 @@ Thursday, March xx, 2024
 * 02:30 PM – 04:00 PM o [Problem IX]: Feature Engineering 
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
+
+https://iopscience.iop.org/article/10.3847/1538-3881/aa9e09 CNNs for time series 
+
+https://arxiv.org/abs/1901.08003 
  
 ## Day 5 — Professional Development and Hack Session
 
