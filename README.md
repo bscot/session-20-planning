@@ -24,15 +24,14 @@ Adam Miller [:octocat:](https://github.com/adamamiller)
 Monday, March xx, 2024
 
  * 09:00 AM – 09:30 AM  o Introduction of Guest Instructors and Code of Conduct Conversation 
- * 09:30 AM – 10:30 AM  o [Lecture I] Introduction to Time Series and Point Processes: B Scott
+ * 09:30 AM – 10:30 AM  o [Lecture I] Introduction to Time Series: B Scott
  * 10:30 AM – 11:00 AM  o  BREAK
- * 11:00 AM – 12:15 PM  o  [Problem I] Fourier Analysis, Correlation Functions, Power Spectra 
+ * 11:00 AM – 12:15 PM  o  [Problem I] Fourier Analysis I 
  * 12:15 PM – 01:45 PM  o  LUNCH
- * 01:45 PM – 02:30 PM  o [Lecture II] Signal Processing and Filtering
+ * 01:45 PM – 02:30 PM  o [Lecture II] Fourier Analysis II 
  * 02:30 PM – 03:30 PM  o [Problem II] Signal Processing and Filtering
  * 03:30 PM – 03:40 PM  o  BREAK
- * 04:00 PM – 05:00 PM  o [Lecture III] Nonparametric Methods for Time Series
- * 05:00 PM - 06:00 PM  o [Problem III] Nonparametric Methods for Time Series
+ * 04:00 PM – 05:00 PM  o [Lecture III] The Art of Cadence Diplomacy 
 
 Irregular sampling - lomb scargle, nyquist sampling, aliasing, window functions on the power spectrum, https://arxiv.org/pdf/1703.09824.pdf
 
@@ -49,14 +48,14 @@ Transit predictions and application of forecasting methods
 
 Tuesday, March xx, 2024
 
- * 09:00 AM – 10:30 AM  o Lecture IV – Gaussian Processes I 
+ * 09:30 AM – 10:30 AM  o Lecture IV – Gaussian Processes I 
  * 10:30 AM – 11:00 AM  o  BREAK
  * 11:00 AM – 12:00 PM  o [Problem IV] Gaussian Processes I
  * 12:00 PM - 01:30 PM o LUNCH 
- * 01:30 PM – 02:30 PM  o Lecture V – Gaussian Processes II: Emulators?
- * 02:30 PM – 03:30 PM  o [Problem V] Gaussian Processes II: Emulators? 
+ * 01:30 PM – 02:30 PM  o Lecture V – Gaussian Processes II
+ * 02:30 PM – 03:30 PM  o [Problem V] Gaussian Processes II
  * 03:30 PM - 04:00 PM o BREAK 
- * 04:00 PM - 05:30 PM o Lecture/Problem VI – Lomb Scargle Periodograms / Conditional Entropy
+ * 04:00 PM - 05:30 PM o [Lecture VI] – Lomb Scargle Periodograms I
  * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Wavelets 
@@ -67,9 +66,9 @@ Tuesday, March xx, 2024
 
 Wednesday, March xx, 2024
 
-* 09:00 AM - 10:00 AM o [Lecture VII] – Wavelet Methods
+* 09:00 AM - 10:00 AM o [Lecture VII] – Lomb Scargle Periodograms II
 * 10:00 AM - 10:30 AM o BREAK
-* 10:30 AM - 12:00 PM o [Problem VII]: Wavelets
+* 10:30 AM - 12:00 PM o [Problem VII]: Lomb Scargle Periodograms II
 * 12:00 PM - ??:?? PM o BREAK
 
 ## Day 4 — ML/DL Approaches: Recurrent Neural Networks and Feature Engineering
@@ -80,12 +79,12 @@ Wednesday, March xx, 2024
 
 Thursday, March xx, 2024
 
-* 09:00 AM – 10:00 AM o [Lecture VIII]: Recurrent Neural Networks 
+* 09:00 AM – 10:00 AM o [Lecture VIII]: Autoregressive Methods
 * 10:00 AM – 10:30 AM o BREAK 
-* 10:30 AM – 12:00 PM o [Problem VIII]: Recurrent Neural Networks
-* 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o [Lecture IX]: Feature Engineering
-* 02:30 PM – 04:00 PM o [Problem IX]: Feature Engineering 
+* 10:30 AM – 12:00 PM o [Problem VIII]:  Autoregressive Methods
+* 12:00 PM – 01:30 PM o LUNCH
+* 01:30 PM – 02:30 PM o [Lecture IX]:  Autoregressive Methods
+* 02:30 PM – 04:00 PM o [Problem IX]:  Autoregressive Methods
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
 
