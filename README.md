@@ -58,7 +58,7 @@ Tuesday, March xx, 2024
  * 04:00 PM - 05:30 PM o [Lecture VI] – Lomb Scargle Periodograms I
  * 06:00 PM - ??:?? PM o Group dinner 
  
-## Day 3 — Wavelets 
+## Day 3 — Lomb Scargle 
 
 ""
 
