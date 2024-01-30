@@ -21,7 +21,7 @@ Adam Miller [:octocat:](https://github.com/adamamiller)
 
 ~. 
 
-Monday, March xx, 2024
+Monday, March 25, 2024
 
  * 09:00 AM – 09:30 AM  o Introduction of Guest Instructors and Code of Conduct Conversation 
  * 09:30 AM – 10:30 AM  o [Lecture I] Introduction to Time Series: B Scott
@@ -46,7 +46,7 @@ Transit predictions and application of forecasting methods
 ~
 
 
-Tuesday, March xx, 2024
+Tuesday, March 26, 2024
 
  * 09:30 AM – 10:30 AM  o [Lecture IV] – Gaussian Processes I: C Hedges
  * 10:30 AM – 11:00 AM  o  BREAK
@@ -65,7 +65,7 @@ Tuesday, March xx, 2024
 
 ~ 
 
-Wednesday, March xx, 2024
+Wednesday, March 27, 2024
 
 * 09:00 AM - 10:00 AM o [Lecture VII] – Lomb Scargle Periodograms II: S Blunt
 * 10:00 AM - 10:30 AM o BREAK
@@ -78,7 +78,7 @@ Wednesday, March xx, 2024
 
 ~
 
-Thursday, March xx, 2024
+Thursday, March 28, 2024
 
 * 09:00 AM – 10:00 AM o [Lecture VIII]: Autoregressive Methods: S Banagiri
 * 10:00 AM – 10:30 AM o BREAK 
@@ -99,7 +99,7 @@ https://arxiv.org/abs/1901.08003
 
 ~
 
-Friday, March xx, 2024
+Friday, March 29, 2024
 
 * 9:00 AM - 10:00  AM o Lecture X – Science Communication and Policy: J McCall 
 * 10:00 AM – 10:45 AM o Problem X - Science Communication and Policy: J McCall 
