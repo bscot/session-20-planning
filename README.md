@@ -4,12 +4,16 @@
 
 The twentieth session of the LSSTC DSFP was hosted by SETI Breakthrough Listen at the University of California, Berkeley in March 2024. The curriculum focuses on Time Series Methods.
 
-The guest instructors for the S19 were:  
+The guest instructors for S20 were:  
 
+Christina Hedges [:octocat:]
+Sarah Blunt [:octocat:]
+Sharan Banagiri [:octocat:]
+Julianne McCall [:octocat:]
 
 Additional lectures were given by the DSFP leadership team:  
 Bryan Scott [:octocat:](https://github.com/bscot)  
-Adam Miller [:octocat:](https://github.com/adamamiller)   
+Lucianne Walkowicz [:octocat:]
 
 
 # Schedule
