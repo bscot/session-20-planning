@@ -6,10 +6,10 @@ The twentieth session of the LSSTC DSFP was hosted by SETI Breakthrough Listen a
 
 The guest instructors for S20 were:  
 
-Christina Hedges [:octocat:]
-Sarah Blunt [:octocat:]
-Sharan Banagiri [:octocat:]
-Julianne McCall [:octocat:]
+Christina Hedges [:octocat:]()
+Sarah Blunt [:octocat:]()
+Sharan Banagiri [:octocat:]()
+Julianne McCall [:octocat:]()
 
 Additional lectures were given by the DSFP leadership team:  
 Bryan Scott [:octocat:](https://github.com/bscot)  
