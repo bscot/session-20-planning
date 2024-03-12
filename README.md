@@ -68,7 +68,6 @@ Tuesday, March 26, 2024
 
 ~ The Tenth Doctor, *Doctor Who*
 
-~ 
 
 Wednesday, March 27, 2024
 
@@ -81,9 +80,7 @@ Wednesday, March 27, 2024
 
 "Outside the ship, the thin membrane of space-time rippled with the gravitational waves, like a placid lake surface disturbed by a night breeze."
 
-- Liu Cixin, *The Three Body Problem*
-
-~
+~ Liu Cixin, *The Three Body Problem*
 
 Thursday, March 28, 2024
 
@@ -100,9 +97,7 @@ Thursday, March 28, 2024
 
 "Someone once told me that time was a predator that stalked us all our lives. I rather believe that time is a companion who goes with us on the journey and reminds us to cherish every moment, because it will never come again."
 
-- Jean Luc Picard, *Star Trek: Generations*
-
-~
+~ Jean Luc Picard, *Star Trek: Generations*
 
 Friday, March 29, 2024
 
