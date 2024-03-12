@@ -26,7 +26,7 @@ Lucianne Walkowicz [:octocat:]
 
 “But now I'm not so sure I believe in beginnings and endings. There are days that define your story beyond your life.”
 
-- Louise Banks, *Arrival* 
+~ Louise Banks, *Arrival* 
 
 ~. 
 
