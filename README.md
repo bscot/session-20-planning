@@ -28,7 +28,6 @@ Lucianne Walkowicz [:octocat:]
 
 ~ Louise Banks, *Arrival* 
 
-~. 
 
 Monday, March 25, 2024
 
